@@ -1,0 +1,37 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "someSidebar": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Project Description",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/docs/"
+          },
+          {
+            "type": "link",
+            "label": "Motivation",
+            "href": "/docs/doc2"
+          },
+          {
+            "type": "link",
+            "label": "Goals",
+            "href": "/docs/doc3"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/": "someSidebar",
+    "/docs/doc2": "someSidebar",
+    "/docs/doc3": "someSidebar"
+  }
+}
