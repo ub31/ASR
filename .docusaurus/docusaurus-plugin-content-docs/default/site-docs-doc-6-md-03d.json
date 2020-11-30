@@ -1,0 +1,21 @@
+{
+  "unversionedId": "doc6",
+  "id": "doc6",
+  "isDocsHomePage": false,
+  "title": "Methods",
+  "source": "@site/docs/doc6.md",
+  "slug": "/doc6",
+  "permalink": "/docs/doc6",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Methods",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Dataset Collection",
+    "permalink": "/docs/doc5"
+  },
+  "next": {
+    "title": "Results",
+    "permalink": "/docs/doc7"
+  }
+}

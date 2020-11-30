@@ -1,0 +1,21 @@
+{
+  "unversionedId": "doc4",
+  "id": "doc4",
+  "isDocsHomePage": false,
+  "title": "Goals",
+  "source": "@site/docs/doc4.md",
+  "slug": "/doc4",
+  "permalink": "/docs/doc4",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Goals",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Related Work & Contributions",
+    "permalink": "/docs/doc3"
+  },
+  "next": {
+    "title": "Dataset Collection",
+    "permalink": "/docs/doc5"
+  }
+}

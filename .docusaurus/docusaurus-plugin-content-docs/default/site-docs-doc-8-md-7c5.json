@@ -1,0 +1,17 @@
+{
+  "unversionedId": "doc8",
+  "id": "doc8",
+  "isDocsHomePage": false,
+  "title": "Conclusion & Future Work",
+  "source": "@site/docs/doc8.md",
+  "slug": "/doc8",
+  "permalink": "/docs/doc8",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Conclusion",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Results",
+    "permalink": "/docs/doc7"
+  }
+}

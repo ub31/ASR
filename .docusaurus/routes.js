@@ -89,7 +89,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','96b'),
+  component: ComponentCreator('/docs','fc6'),
   
   routes: [
 {
@@ -105,6 +105,31 @@ export default [
 {
   path: '/docs/doc3',
   component: ComponentCreator('/docs/doc3','e02'),
+  exact: true,
+},
+{
+  path: '/docs/doc4',
+  component: ComponentCreator('/docs/doc4','50f'),
+  exact: true,
+},
+{
+  path: '/docs/doc5',
+  component: ComponentCreator('/docs/doc5','b2b'),
+  exact: true,
+},
+{
+  path: '/docs/doc6',
+  component: ComponentCreator('/docs/doc6','b6d'),
+  exact: true,
+},
+{
+  path: '/docs/doc7',
+  component: ComponentCreator('/docs/doc7','ad0'),
+  exact: true,
+},
+{
+  path: '/docs/doc8',
+  component: ComponentCreator('/docs/doc8','728'),
   exact: true,
 },
 {

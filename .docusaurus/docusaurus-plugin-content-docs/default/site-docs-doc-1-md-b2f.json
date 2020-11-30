@@ -7,7 +7,7 @@
   "source": "@site/docs/doc1.md",
   "slug": "/",
   "permalink": "/docs/",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc1.md",
+  "editUrl": null,
   "version": "current",
   "sidebar_label": "Introduction",
   "sidebar": "someSidebar",

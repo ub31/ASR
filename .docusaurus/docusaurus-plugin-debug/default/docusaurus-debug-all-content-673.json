@@ -29,6 +29,26 @@
                   {
                     "type": "doc",
                     "id": "doc3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc4"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc5"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc6"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc7"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc8"
                   }
                 ]
               }
@@ -37,7 +57,12 @@
           "permalinkToSidebar": {
             "/docs/": "someSidebar",
             "/docs/doc2": "someSidebar",
-            "/docs/doc3": "someSidebar"
+            "/docs/doc3": "someSidebar",
+            "/docs/doc4": "someSidebar",
+            "/docs/doc5": "someSidebar",
+            "/docs/doc6": "someSidebar",
+            "/docs/doc7": "someSidebar",
+            "/docs/doc8": "someSidebar"
           },
           "docs": [
             {
@@ -49,7 +74,7 @@
               "source": "@site/docs/doc1.md",
               "slug": "/",
               "permalink": "/docs/",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc1.md",
+              "editUrl": null,
               "version": "current",
               "sidebar_label": "Introduction",
               "sidebar": "someSidebar",
@@ -67,15 +92,16 @@
               "source": "@site/docs/doc2.md",
               "slug": "/doc2",
               "permalink": "/docs/doc2",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc2.md",
+              "editUrl": null,
               "version": "current",
+              "sidebar_label": "Motivation",
               "sidebar": "someSidebar",
               "previous": {
                 "title": "Introduction",
                 "permalink": "/docs/"
               },
               "next": {
-                "title": "Goals",
+                "title": "Related Work & Contributions",
                 "permalink": "/docs/doc3"
               }
             },
@@ -83,17 +109,123 @@
               "unversionedId": "doc3",
               "id": "doc3",
               "isDocsHomePage": false,
-              "title": "Goals",
+              "title": "Related Work & Contributions",
               "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
               "source": "@site/docs/doc3.md",
               "slug": "/doc3",
               "permalink": "/docs/doc3",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc3.md",
+              "editUrl": null,
               "version": "current",
+              "sidebar_label": "Related Work & Contribution",
               "sidebar": "someSidebar",
               "previous": {
                 "title": "Motivation",
                 "permalink": "/docs/doc2"
+              },
+              "next": {
+                "title": "Goals",
+                "permalink": "/docs/doc4"
+              }
+            },
+            {
+              "unversionedId": "doc4",
+              "id": "doc4",
+              "isDocsHomePage": false,
+              "title": "Goals",
+              "source": "@site/docs/doc4.md",
+              "slug": "/doc4",
+              "permalink": "/docs/doc4",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Goals",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Related Work & Contributions",
+                "permalink": "/docs/doc3"
+              },
+              "next": {
+                "title": "Dataset Collection",
+                "permalink": "/docs/doc5"
+              }
+            },
+            {
+              "unversionedId": "doc5",
+              "id": "doc5",
+              "isDocsHomePage": false,
+              "title": "Dataset Collection",
+              "source": "@site/docs/doc5.md",
+              "slug": "/doc5",
+              "permalink": "/docs/doc5",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Dataset",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Goals",
+                "permalink": "/docs/doc4"
+              },
+              "next": {
+                "title": "Methods",
+                "permalink": "/docs/doc6"
+              }
+            },
+            {
+              "unversionedId": "doc6",
+              "id": "doc6",
+              "isDocsHomePage": false,
+              "title": "Methods",
+              "source": "@site/docs/doc6.md",
+              "slug": "/doc6",
+              "permalink": "/docs/doc6",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Methods",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Dataset Collection",
+                "permalink": "/docs/doc5"
+              },
+              "next": {
+                "title": "Results",
+                "permalink": "/docs/doc7"
+              }
+            },
+            {
+              "unversionedId": "doc7",
+              "id": "doc7",
+              "isDocsHomePage": false,
+              "title": "Results",
+              "source": "@site/docs/doc7.md",
+              "slug": "/doc7",
+              "permalink": "/docs/doc7",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Results",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Methods",
+                "permalink": "/docs/doc6"
+              },
+              "next": {
+                "title": "Conclusion & Future Work",
+                "permalink": "/docs/doc8"
+              }
+            },
+            {
+              "unversionedId": "doc8",
+              "id": "doc8",
+              "isDocsHomePage": false,
+              "title": "Conclusion & Future Work",
+              "source": "@site/docs/doc8.md",
+              "slug": "/doc8",
+              "permalink": "/docs/doc8",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Conclusion",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Results",
+                "permalink": "/docs/doc7"
               }
             },
             {

@@ -7,15 +7,16 @@
   "source": "@site/docs/doc2.md",
   "slug": "/doc2",
   "permalink": "/docs/doc2",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/doc2.md",
+  "editUrl": null,
   "version": "current",
+  "sidebar_label": "Motivation",
   "sidebar": "someSidebar",
   "previous": {
     "title": "Introduction",
     "permalink": "/docs/"
   },
   "next": {
-    "title": "Goals",
+    "title": "Related Work & Contributions",
     "permalink": "/docs/doc3"
   }
 }

@@ -26,6 +26,31 @@
               "sidebar": "someSidebar"
             },
             {
+              "id": "doc4",
+              "path": "/docs/doc4",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "doc5",
+              "path": "/docs/doc5",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "doc6",
+              "path": "/docs/doc6",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "doc7",
+              "path": "/docs/doc7",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "doc8",
+              "path": "/docs/doc8",
+              "sidebar": "someSidebar"
+            },
+            {
               "id": "mdx",
               "path": "/docs/mdx"
             }
