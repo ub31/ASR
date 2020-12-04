@@ -5,13 +5,13 @@
   "title": "Conclusion & Future Work",
   "source": "@site/docs/doc8.md",
   "slug": "/doc8",
-  "permalink": "/docs/doc8",
+  "permalink": "/ASR/docs/doc8",
   "editUrl": null,
   "version": "current",
   "sidebar_label": "Conclusion",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Results",
-    "permalink": "/docs/doc7"
+    "title": "Methods",
+    "permalink": "/ASR/docs/doc7"
   }
 }

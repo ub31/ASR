@@ -6,13 +6,13 @@
   "description": "You can write content using GitHub-flavored Markdown syntax.",
   "source": "@site/docs/doc1.md",
   "slug": "/",
-  "permalink": "/docs/",
+  "permalink": "/ASR/docs/",
   "editUrl": null,
   "version": "current",
   "sidebar_label": "Introduction",
   "sidebar": "someSidebar",
   "next": {
-    "title": "Motivation",
-    "permalink": "/docs/doc2"
+    "title": "Introduction & Motivation",
+    "permalink": "/ASR/docs/doc2"
   }
 }

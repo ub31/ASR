@@ -3,20 +3,20 @@
   "id": "doc3",
   "isDocsHomePage": false,
   "title": "Related Work & Contributions",
-  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "description": "In the paper “Improving Activity Classification for Health Applications on Mobile Devices using Active and Semi-Supervised Learning“ by Brent et. al. , the authors compared the performance improvement of active learning and three different semi-supervised learning methods about automatically adapting classifiers. However, this paper did not further investigate the effect of these augmented classifiers on the test set where the user’s way of performing activities differs from how it was performed in the training data set.",
   "source": "@site/docs/doc3.md",
   "slug": "/doc3",
-  "permalink": "/docs/doc3",
+  "permalink": "/ASR/docs/doc3",
   "editUrl": null,
   "version": "current",
   "sidebar_label": "Related Work & Contribution",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Motivation",
-    "permalink": "/docs/doc2"
+    "title": "Introduction & Motivation",
+    "permalink": "/ASR/docs/doc2"
   },
   "next": {
     "title": "Goals",
-    "permalink": "/docs/doc4"
+    "permalink": "/ASR/docs/doc4"
   }
 }

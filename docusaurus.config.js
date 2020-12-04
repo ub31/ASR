@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Personalization of Generalized Activity Recognition Models',
   tagline: 'EE382V-ASR :  Activity Sensing and Recognition Project',
-  url: 'https://asr-project.com',
-  baseUrl: '/',
+  url: 'https://ub31.github.io',
+  baseUrl: '/ASR/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ub31', // Usually your GitHub org/user name.
-  projectName: 'asr', // Usually your repo name.
+  projectName: 'ASR', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Home',

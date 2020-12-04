@@ -3,19 +3,20 @@
   "id": "doc5",
   "isDocsHomePage": false,
   "title": "Dataset Collection",
+  "description": "In order to obtain our data to accomplish the two goals, we followed a series of steps to collect data from 7 participants. Our data collection pipeline is as follows :",
   "source": "@site/docs/doc5.md",
   "slug": "/doc5",
-  "permalink": "/docs/doc5",
+  "permalink": "/ASR/docs/doc5",
   "editUrl": null,
   "version": "current",
   "sidebar_label": "Dataset",
   "sidebar": "someSidebar",
   "previous": {
     "title": "Goals",
-    "permalink": "/docs/doc4"
+    "permalink": "/ASR/docs/doc4"
   },
   "next": {
-    "title": "Methods",
-    "permalink": "/docs/doc6"
+    "title": "Activity Exploration",
+    "permalink": "/ASR/docs/doc6"
   }
 }

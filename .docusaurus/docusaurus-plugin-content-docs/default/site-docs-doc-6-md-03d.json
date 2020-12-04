@@ -2,20 +2,21 @@
   "unversionedId": "doc6",
   "id": "doc6",
   "isDocsHomePage": false,
-  "title": "Methods",
+  "title": "Activity Exploration",
+  "description": "We performed an initial exploration from the data collected, the dataset had the accelerometer x,y and z axis data from which we computed the magnitude of the raw accelerometer signals and performed this exploratory analysis.",
   "source": "@site/docs/doc6.md",
   "slug": "/doc6",
-  "permalink": "/docs/doc6",
+  "permalink": "/ASR/docs/doc6",
   "editUrl": null,
   "version": "current",
-  "sidebar_label": "Methods",
+  "sidebar_label": "Exploratory analysis",
   "sidebar": "someSidebar",
   "previous": {
     "title": "Dataset Collection",
-    "permalink": "/docs/doc5"
+    "permalink": "/ASR/docs/doc5"
   },
   "next": {
-    "title": "Results",
-    "permalink": "/docs/doc7"
+    "title": "Methods",
+    "permalink": "/ASR/docs/doc7"
   }
 }

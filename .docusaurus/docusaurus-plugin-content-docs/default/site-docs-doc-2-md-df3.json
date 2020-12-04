@@ -2,21 +2,21 @@
   "unversionedId": "doc2",
   "id": "doc2",
   "isDocsHomePage": false,
-  "title": "Motivation",
-  "description": "This is a link to another document. This is a link to an external page.",
+  "title": "Introduction & Motivation",
+  "description": "Human activity recognition can provide context on the individual’s lifestyle and aid in providing valuable information to the person on their daily intake of food, physical activity, and other required information. It becomes particularly useful for eldercare and health care as a context based assistive technology,  in addition to this, recognizing the activity can help systems to generate personalized recommendations for a user and enrich their experience. Sensor based activity recognition is prevalent and mobile devices like smartphones are one among the ubiquitous technology to monitor the user’s lifestyle. It is estimated that there are 5.23 billion people that have a mobile device in the world amounting to more than 66.79% of the world's population.",
   "source": "@site/docs/doc2.md",
   "slug": "/doc2",
-  "permalink": "/docs/doc2",
+  "permalink": "/ASR/docs/doc2",
   "editUrl": null,
   "version": "current",
-  "sidebar_label": "Motivation",
+  "sidebar_label": "Introduction",
   "sidebar": "someSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/docs/"
+    "permalink": "/ASR/docs/"
   },
   "next": {
     "title": "Related Work & Contributions",
-    "permalink": "/docs/doc3"
+    "permalink": "/ASR/docs/doc3"
   }
 }

@@ -13,55 +13,55 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/docs/"
+            "href": "/ASR/docs/"
           },
           {
             "type": "link",
-            "label": "Motivation",
-            "href": "/docs/doc2"
+            "label": "Introduction",
+            "href": "/ASR/docs/doc2"
           },
           {
             "type": "link",
             "label": "Related Work & Contribution",
-            "href": "/docs/doc3"
+            "href": "/ASR/docs/doc3"
           },
           {
             "type": "link",
             "label": "Goals",
-            "href": "/docs/doc4"
+            "href": "/ASR/docs/doc4"
           },
           {
             "type": "link",
             "label": "Dataset",
-            "href": "/docs/doc5"
+            "href": "/ASR/docs/doc5"
+          },
+          {
+            "type": "link",
+            "label": "Exploratory analysis",
+            "href": "/ASR/docs/doc6"
           },
           {
             "type": "link",
             "label": "Methods",
-            "href": "/docs/doc6"
-          },
-          {
-            "type": "link",
-            "label": "Results",
-            "href": "/docs/doc7"
+            "href": "/ASR/docs/doc7"
           },
           {
             "type": "link",
             "label": "Conclusion",
-            "href": "/docs/doc8"
+            "href": "/ASR/docs/doc8"
           }
         ]
       }
     ]
   },
   "permalinkToSidebar": {
-    "/docs/": "someSidebar",
-    "/docs/doc2": "someSidebar",
-    "/docs/doc3": "someSidebar",
-    "/docs/doc4": "someSidebar",
-    "/docs/doc5": "someSidebar",
-    "/docs/doc6": "someSidebar",
-    "/docs/doc7": "someSidebar",
-    "/docs/doc8": "someSidebar"
+    "/ASR/docs/": "someSidebar",
+    "/ASR/docs/doc2": "someSidebar",
+    "/ASR/docs/doc3": "someSidebar",
+    "/ASR/docs/doc4": "someSidebar",
+    "/ASR/docs/doc5": "someSidebar",
+    "/ASR/docs/doc6": "someSidebar",
+    "/ASR/docs/doc7": "someSidebar",
+    "/ASR/docs/doc8": "someSidebar"
   }
 }
