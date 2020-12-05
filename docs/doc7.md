@@ -64,9 +64,10 @@ This is one of the simplest methods to measure the uncertainty. We do this by me
 
 The most intuitive form of uncertainty sampling is the difference between the two most confident predictions. We measure this by identifying for the label that the model predicted, how confident is this prediction than the next most confident label prediction by the model. In other words it measures the difference in confidence between the first and second most likely predictions. 
 
+![img](../static/img/algo3.png)
 
 ### Random sampling
 
 For random sampling, we sample randomly selected samples from the unlabeled pool without any criterion and add it to the labeled set.
 
-
+![img](../static/img/algo4.png)
