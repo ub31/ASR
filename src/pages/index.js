@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Team Member 1',
-    imageUrl: '',
+    imageUrl: '/img/img.png',
     description: (
       <>
         Uma Bharathi Govindarajan (ug646)
@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: 'Team Member 2',
-    imageUrl: '',
+    imageUrl: '/img/sl.jpg',
     description: (
       <>
         Shih-Lung Hsu (sh49233)
@@ -31,13 +31,13 @@ function Feature({imageUrl, title, description}) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--6', styles.feature)}>
-      {imgUrl && (
-        <div className="text--center">
-          <img className={styles.featureImage} src={imgUrl} alt={title} />
-        </div>
-      )}
       <h3>{title}</h3>
       <p>{description}</p>
+      {imgUrl && (
+      <div className="text--center">
+        <img className={styles.featureImage} src={imgUrl} alt={title} />
+      </div>
+      )}
     </div>
   );
 }

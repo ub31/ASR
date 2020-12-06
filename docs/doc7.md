@@ -36,7 +36,7 @@ We extracted the following features for each frame, mean, variance, standard dev
 
 Once we obtain the features, we train our baseline models. We use a RandomForestClassifier as the machine learning model. The choice of RandomForestClassifier is from prior literature review as well as widespread use of ensembling methods. Ensemble methods help to achieve the bias-variance tradeoff. When the number of estimators increases the variance can be reduced, by averaging out across the different weak learners. In addition to this random forest identifies different subsets of features to train the different base learners thereby preventing overfitting.
 
-### Active learning 
+## Active learning 
 
 
 We identify the most informative samples or the samples where the model is uncertain on it’s prediction and use a pool-based strategy to query for these. The setup for this is, there is a set of labeled instances, a set of unlabeled instances, and a golden oracle which provides the label for an unlabeled instance when queried. During each iteration we find the instance which we want the oracle to label using different query strategies and then add them to the labeled pool to retrain the model and evaluate them. In this way the model starts to slowly learn from the additional samples provided.
@@ -71,3 +71,15 @@ The most intuitive form of uncertainty sampling is the difference between the tw
 For random sampling, we sample randomly selected samples from the unlabeled pool without any criterion and add it to the labeled set.
 
 ![img](../static/img/algo4.png)
+
+## Semi-supervised learning
+
+The major difference between active learning and semi-supervised learning is that the latter uses the unlabeled examples for improving the accuracy whereas active learning approaches query an oracle to label the data.
+
+The goal of the semi-supervised approach is to understand whether we can label the unlabeled samples from the model and use it to retrain the model. For this method, we have a set of labeled instances, a set of unlabeled instances, and a test set.
+
+We implement self-training which is wrapper-based and one of the earliest heuristic-based methods. It makes use of a model’s own prediction on unlabeled data in order to obtain additional information that can be used during training. The basic idea is to build a model on the labeled data and then use this model to estimate the labels for the unlabeled pool. The most confident label values are taken and the newly labeled data are then used along with the originally labeled instances to retrain the model. This procedure is repeated until all samples are labeled.
+
+![img](../static/img/semi-supervised.png)
+
+However, semi-supervised learning is not able to get enough new samples to retrain the model if we select only the samples with high confidence. We finally implement a mixed strategy consisting of active plus  semi- supervised, where at each iteration we sample uncertain samples and query the oracle for the labels to add to the training data and then use another set of instances, identify their predictions in a self-training manner and then add the most confident predictions to the training dataset with the predicted labels as the actual labels.
