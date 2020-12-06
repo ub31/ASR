@@ -85,6 +85,8 @@ Identify how much can a classifier be adapted to account for sensor placement va
 ### Baseline
 We obtain baseline model for training on hand data of each subject separately and testing on pocket data of that corresponding subject with a RandomForest classifer. This becomes the baseline for Experiment 2 where we try to build a robust classifier to account for sensor placement variations for individual subjects. We can see that the performance of the classifier is very low as shown in the plot, which is expected because when we train a model to recognize activity by recording data with mobile phone on hand from a single subject and then test it on data recorded with mobile phone in pocket, the accuracy is bound to be low.
 
+![img](../static/img/baseline_3.png)
+
 ### Experimental Setup
 We keep expanding the training set and retrain the model by adding more pocket data using active learning and semi-supervised learning, and observe the variation on both pocket/hand test data sets.
 Regarding the experimental parameters, we specify the number of rounds is 50, and the batch size for each round is 25. In each round, we perform active learning with various criterions to select 25 instances from unlabeled data pool.
