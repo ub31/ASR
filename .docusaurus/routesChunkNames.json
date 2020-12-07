@@ -110,17 +110,21 @@
     "sidebar": "sidebar---asr-blog-73-a-735",
     "content": "content---asr-blog-welcome-286-e6f"
   },
-  "/ASR/docs-757": {
+  "/ASR/docs-878": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---asr-docs-935-744"
   },
   "/ASR/docs/-ae6": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---asr-docs-doc-2-df-3-f0f"
+    "content": "content---asr-docs-df-3-1f7"
   },
   "/ASR/docs/doc10-114": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---asr-docs-doc-107-de-e75"
+  },
+  "/ASR/docs/doc11-105": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---asr-docs-doc-11-a-5-c-cda"
   },
   "/ASR/docs/doc3-4f9": {
     "component": "component---theme-doc-item-178-a40",

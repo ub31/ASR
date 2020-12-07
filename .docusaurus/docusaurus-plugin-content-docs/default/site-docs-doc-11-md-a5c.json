@@ -1,0 +1,18 @@
+{
+  "unversionedId": "doc11",
+  "id": "doc11",
+  "isDocsHomePage": false,
+  "title": "Appendix",
+  "description": "Below, we have attached all the experimental outputs and figures for different subjects and methods",
+  "source": "@site/docs/doc11.md",
+  "slug": "/doc11",
+  "permalink": "/ASR/docs/doc11",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Appendix",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Future Work",
+    "permalink": "/ASR/docs/doc10"
+  }
+}

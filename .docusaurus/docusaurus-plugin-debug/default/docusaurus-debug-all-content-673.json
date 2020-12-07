@@ -49,6 +49,10 @@
                   {
                     "type": "doc",
                     "id": "doc10"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc11"
                   }
                 ]
               }
@@ -56,6 +60,7 @@
           },
           "permalinkToSidebar": {
             "/ASR/docs/doc10": "someSidebar",
+            "/ASR/docs/doc11": "someSidebar",
             "/ASR/docs/": "someSidebar",
             "/ASR/docs/doc3": "someSidebar",
             "/ASR/docs/doc5": "someSidebar",
@@ -81,6 +86,28 @@
               "previous": {
                 "title": "Conclusion",
                 "permalink": "/ASR/docs/doc9"
+              },
+              "next": {
+                "title": "Appendix",
+                "permalink": "/ASR/docs/doc11"
+              }
+            },
+            {
+              "unversionedId": "doc11",
+              "id": "doc11",
+              "isDocsHomePage": false,
+              "title": "Appendix",
+              "description": "Below, we have attached all the experimental outputs and figures for different subjects and methods",
+              "source": "@site/docs/doc11.md",
+              "slug": "/doc11",
+              "permalink": "/ASR/docs/doc11",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Appendix",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Future Work",
+                "permalink": "/ASR/docs/doc10"
               }
             },
             {

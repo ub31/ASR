@@ -68,6 +68,9 @@ Furthermore, semi-supervised learning is **not** able to obtain **enough new sam
 ![img](../static/img/cmp_diff_method_3.png) 
 ![img](../static/img/cmp_diff_method_4.png)
 
+#### Confusion matrix for least confidence query method(Best performing)
+
+![img](../static/img/cnf_1.png)
 
 On the other hand, we also compared the performance of different sensor placements under a specific query method for each subject. The result shows that for each subject, we can get **better performance with training and testing a model on pocket than on hand**. This is reasonable since putting smartphone in pocket limits more to some extent the degree of freedom of the movement of a smartphone on pocket than on hand. Therefore, we can get a more similar pattern for different subjects on the pocket, and it becomes easier to personalize the model.
 
@@ -86,6 +89,9 @@ Furthermore, We also study the impact of the number of training subjects on the 
 In order to understand this claim better let's look at a specific example below, for training with **1-3 subjects** we can see that the **baseline performance is low** on the right plot and with more training data the baseline performance is higher. Whereas when we look at the performance of the model after adding the **1200 samples** using active learning the one with less training data(*blue,green and red dotted line*) on the left plot is able to personalize better. This is an interesting observation and indicates a tradeoff between baseline performance vs personalization.
 
 ![img](../static/img/cmp_tradeoff.png)
+
+
+
 
 ## Experiment 2
 ### Goal

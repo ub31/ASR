@@ -16,6 +16,11 @@
               "sidebar": "someSidebar"
             },
             {
+              "id": "doc11",
+              "path": "/ASR/docs/doc11",
+              "sidebar": "someSidebar"
+            },
+            {
               "id": "doc2",
               "path": "/ASR/docs/",
               "sidebar": "someSidebar"

@@ -89,7 +89,7 @@ export default [
 },
 {
   path: '/ASR/docs',
-  component: ComponentCreator('/ASR/docs','757'),
+  component: ComponentCreator('/ASR/docs','878'),
   
   routes: [
 {
@@ -100,6 +100,11 @@ export default [
 {
   path: '/ASR/docs/doc10',
   component: ComponentCreator('/ASR/docs/doc10','114'),
+  exact: true,
+},
+{
+  path: '/ASR/docs/doc11',
+  component: ComponentCreator('/ASR/docs/doc11','105'),
   exact: true,
 },
 {

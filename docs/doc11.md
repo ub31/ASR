@@ -5,7 +5,7 @@ sidebar_label: Appendix
 custom_edit_url: null
 ---
 :::note
-**`Here are all the experimental outputs and figures we have run`**
+**`Below, we have attached all the experimental outputs and figures for different subjects and methods`**
 :::
 
 ## Experiment 1

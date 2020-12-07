@@ -49,6 +49,11 @@
             "type": "link",
             "label": "Future Work",
             "href": "/ASR/docs/doc10"
+          },
+          {
+            "type": "link",
+            "label": "Appendix",
+            "href": "/ASR/docs/doc11"
           }
         ]
       }
@@ -56,6 +61,7 @@
   },
   "permalinkToSidebar": {
     "/ASR/docs/doc10": "someSidebar",
+    "/ASR/docs/doc11": "someSidebar",
     "/ASR/docs/": "someSidebar",
     "/ASR/docs/doc3": "someSidebar",
     "/ASR/docs/doc5": "someSidebar",
