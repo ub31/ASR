@@ -12,7 +12,11 @@
           "docs": [
             {
               "id": "doc1",
-              "path": "/ASR/docs/",
+              "path": "/ASR/docs/"
+            },
+            {
+              "id": "doc10",
+              "path": "/ASR/docs/doc10",
               "sidebar": "someSidebar"
             },
             {
@@ -23,11 +27,6 @@
             {
               "id": "doc3",
               "path": "/ASR/docs/doc3",
-              "sidebar": "someSidebar"
-            },
-            {
-              "id": "doc4",
-              "path": "/ASR/docs/doc4",
               "sidebar": "someSidebar"
             },
             {
@@ -48,6 +47,11 @@
             {
               "id": "doc8",
               "path": "/ASR/docs/doc8",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "doc9",
+              "path": "/ASR/docs/doc9",
               "sidebar": "someSidebar"
             },
             {

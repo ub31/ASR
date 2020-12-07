@@ -3,7 +3,7 @@
   "id": "doc6",
   "isDocsHomePage": false,
   "title": "Activity Exploration",
-  "description": "We performed an initial exploration from the data collected, the dataset had the accelerometer x,y and z axis data from which we computed the magnitude of the raw accelerometer signals and performed this exploratory analysis.",
+  "description": "We performed an initial exploration from the data collected, the dataset has the accelerometer x,y and z signals from which we computed the magnitude of the raw accelerometer signals and performed this exploratory analysis.",
   "source": "@site/docs/doc6.md",
   "slug": "/doc6",
   "permalink": "/ASR/docs/doc6",

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "doc9",
+  "id": "doc9",
+  "isDocsHomePage": false,
+  "title": "Conclusion",
+  "description": "In this project, we leverage active and semi-supervised learning methods to prove the feasibility of the personalization of a classifier and to observe the degree of improvement with respect to the variation of sensor placements and individual differences. For example, we can achieve 70%-80% accuracy using active learning with the least confidence if 20% of unlabeled data (500 out of 2500 samples) are labeled and added into the training set. That is a huge improvement compared to the baseline classifier that only had less than 20% accuracy.",
+  "source": "@site/docs/doc9.md",
+  "slug": "/doc9",
+  "permalink": "/ASR/docs/doc9",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Conclusion",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Experimental Result & Analysis",
+    "permalink": "/ASR/docs/doc8"
+  },
+  "next": {
+    "title": "Future Work",
+    "permalink": "/ASR/docs/doc10"
+  }
+}

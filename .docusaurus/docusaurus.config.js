@@ -5,7 +5,7 @@ export default {
   "baseUrl": "/ASR/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/logohead.png",
   "organizationName": "ub31",
   "projectName": "ASR",
   "themeConfig": {

@@ -13,22 +13,12 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/ASR/docs/"
-          },
-          {
-            "type": "link",
-            "label": "Introduction",
             "href": "/ASR/docs/doc2"
           },
           {
             "type": "link",
-            "label": "Related Work & Contribution",
+            "label": "Related Work & Goals",
             "href": "/ASR/docs/doc3"
-          },
-          {
-            "type": "link",
-            "label": "Goals",
-            "href": "/ASR/docs/doc4"
           },
           {
             "type": "link",
@@ -47,21 +37,31 @@
           },
           {
             "type": "link",
-            "label": "Conclusion",
+            "label": "Experimental Result & Analysis",
             "href": "/ASR/docs/doc8"
+          },
+          {
+            "type": "link",
+            "label": "Conclusion",
+            "href": "/ASR/docs/doc9"
+          },
+          {
+            "type": "link",
+            "label": "Future Work",
+            "href": "/ASR/docs/doc10"
           }
         ]
       }
     ]
   },
   "permalinkToSidebar": {
-    "/ASR/docs/": "someSidebar",
+    "/ASR/docs/doc10": "someSidebar",
     "/ASR/docs/doc2": "someSidebar",
     "/ASR/docs/doc3": "someSidebar",
-    "/ASR/docs/doc4": "someSidebar",
     "/ASR/docs/doc5": "someSidebar",
     "/ASR/docs/doc6": "someSidebar",
     "/ASR/docs/doc7": "someSidebar",
-    "/ASR/docs/doc8": "someSidebar"
+    "/ASR/docs/doc8": "someSidebar",
+    "/ASR/docs/doc9": "someSidebar"
   }
 }

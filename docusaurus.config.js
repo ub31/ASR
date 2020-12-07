@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/ASR/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logohead.png',
   organizationName: 'ub31', // Usually your GitHub org/user name.
   projectName: 'ASR', // Usually your repo name.
   themeConfig: {

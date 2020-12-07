@@ -1,0 +1,427 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/ASR/docs",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/uma/Documents/ActivitySensing/project/asr/ASR/sidebars.js",
+          "docsDirPath": "/Users/uma/Documents/ActivitySensing/project/asr/ASR/docs",
+          "mainDocId": "doc1",
+          "sidebars": {
+            "someSidebar": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Project Description",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "doc2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc5"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc6"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc7"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc8"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc9"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "doc10"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/ASR/docs/doc10": "someSidebar",
+            "/ASR/docs/doc2": "someSidebar",
+            "/ASR/docs/doc3": "someSidebar",
+            "/ASR/docs/doc5": "someSidebar",
+            "/ASR/docs/doc6": "someSidebar",
+            "/ASR/docs/doc7": "someSidebar",
+            "/ASR/docs/doc8": "someSidebar",
+            "/ASR/docs/doc9": "someSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "doc1",
+              "id": "doc1",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "You can write content using GitHub-flavored Markdown syntax.",
+              "source": "@site/docs/doc1.md",
+              "slug": "/",
+              "permalink": "/ASR/docs/",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Introduction"
+            },
+            {
+              "unversionedId": "doc10",
+              "id": "doc10",
+              "isDocsHomePage": false,
+              "title": "Future Work",
+              "description": "In future work, we can identify possible solutions,",
+              "source": "@site/docs/doc10.md",
+              "slug": "/doc10",
+              "permalink": "/ASR/docs/doc10",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Future Work",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Conclusion",
+                "permalink": "/ASR/docs/doc9"
+              }
+            },
+            {
+              "unversionedId": "doc2",
+              "id": "doc2",
+              "isDocsHomePage": false,
+              "title": "Introduction",
+              "description": "Background",
+              "source": "@site/docs/doc2.md",
+              "slug": "/doc2",
+              "permalink": "/ASR/docs/doc2",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Introduction",
+              "sidebar": "someSidebar",
+              "next": {
+                "title": "Related Work & Our Goals",
+                "permalink": "/ASR/docs/doc3"
+              }
+            },
+            {
+              "unversionedId": "doc3",
+              "id": "doc3",
+              "isDocsHomePage": false,
+              "title": "Related Work & Our Goals",
+              "description": "In the paper “Improving Activity Classification for Health Applications on Mobile Devices using Active and Semi-Supervised Learning“ by Brent et. al. , the authors compared the performance improvement of active learning and three different semi-supervised learning methods about automatically adapting classifiers. However, this paper did not further investigate the effect of these augmented classifiers on the test set where the user’s way of performing activities differs from how it was performed in the training data set.",
+              "source": "@site/docs/doc3.md",
+              "slug": "/doc3",
+              "permalink": "/ASR/docs/doc3",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Related Work & Goals",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/ASR/docs/doc2"
+              },
+              "next": {
+                "title": "Dataset Collection",
+                "permalink": "/ASR/docs/doc5"
+              }
+            },
+            {
+              "unversionedId": "doc5",
+              "id": "doc5",
+              "isDocsHomePage": false,
+              "title": "Dataset Collection",
+              "description": "In order to obtain our data to accomplish the two goals, we followed a series of steps to collect data from 7 participants. Our data collection pipeline is as follows :",
+              "source": "@site/docs/doc5.md",
+              "slug": "/doc5",
+              "permalink": "/ASR/docs/doc5",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Dataset",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Related Work & Our Goals",
+                "permalink": "/ASR/docs/doc3"
+              },
+              "next": {
+                "title": "Activity Exploration",
+                "permalink": "/ASR/docs/doc6"
+              }
+            },
+            {
+              "unversionedId": "doc6",
+              "id": "doc6",
+              "isDocsHomePage": false,
+              "title": "Activity Exploration",
+              "description": "We performed an initial exploration from the data collected, the dataset has the accelerometer x,y and z signals from which we computed the magnitude of the raw accelerometer signals and performed this exploratory analysis.",
+              "source": "@site/docs/doc6.md",
+              "slug": "/doc6",
+              "permalink": "/ASR/docs/doc6",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Exploratory analysis",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Dataset Collection",
+                "permalink": "/ASR/docs/doc5"
+              },
+              "next": {
+                "title": "Methods",
+                "permalink": "/ASR/docs/doc7"
+              }
+            },
+            {
+              "unversionedId": "doc7",
+              "id": "doc7",
+              "isDocsHomePage": false,
+              "title": "Methods",
+              "description": "As we know, the pipeline for activity recognition is as shown below, and we have discussed the dataset collection in the previous section.",
+              "source": "@site/docs/doc7.md",
+              "slug": "/doc7",
+              "permalink": "/ASR/docs/doc7",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Methods",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Activity Exploration",
+                "permalink": "/ASR/docs/doc6"
+              },
+              "next": {
+                "title": "Experimental Result & Analysis",
+                "permalink": "/ASR/docs/doc8"
+              }
+            },
+            {
+              "unversionedId": "doc8",
+              "id": "doc8",
+              "isDocsHomePage": false,
+              "title": "Experimental Result & Analysis",
+              "description": "Experiment 1",
+              "source": "@site/docs/doc8.md",
+              "slug": "/doc8",
+              "permalink": "/ASR/docs/doc8",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Experimental Result & Analysis",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Methods",
+                "permalink": "/ASR/docs/doc7"
+              },
+              "next": {
+                "title": "Conclusion",
+                "permalink": "/ASR/docs/doc9"
+              }
+            },
+            {
+              "unversionedId": "doc9",
+              "id": "doc9",
+              "isDocsHomePage": false,
+              "title": "Conclusion",
+              "description": "In this project, we leverage active and semi-supervised learning methods to prove the feasibility of the personalization of a classifier and to observe the degree of improvement with respect to the variation of sensor placements and individual differences. For example, we can achieve 70%-80% accuracy using active learning with the least confidence if 20% of unlabeled data (500 out of 2500 samples) are labeled and added into the training set. That is a huge improvement compared to the baseline classifier that only had less than 20% accuracy.",
+              "source": "@site/docs/doc9.md",
+              "slug": "/doc9",
+              "permalink": "/ASR/docs/doc9",
+              "editUrl": null,
+              "version": "current",
+              "sidebar_label": "Conclusion",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Experimental Result & Analysis",
+                "permalink": "/ASR/docs/doc8"
+              },
+              "next": {
+                "title": "Future Work",
+                "permalink": "/ASR/docs/doc10"
+              }
+            },
+            {
+              "unversionedId": "mdx",
+              "id": "mdx",
+              "isDocsHomePage": false,
+              "title": "Powered by MDX",
+              "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+              "source": "@site/docs/mdx.md",
+              "slug": "/mdx",
+              "permalink": "/ASR/docs/mdx",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mdx.md",
+              "version": "current"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/ASR/blog/welcome",
+            "source": "@site/blog/2019-05-30-welcome.md",
+            "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
+            "date": "2019-05-30T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/ASR/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/ASR/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/ASR/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Welcome",
+            "readingTime": 0.175,
+            "truncated": false,
+            "nextItem": {
+              "title": "Hello",
+              "permalink": "/ASR/blog/hello-world"
+            }
+          }
+        },
+        {
+          "id": "hello-world",
+          "metadata": {
+            "permalink": "/ASR/blog/hello-world",
+            "source": "@site/blog/2019-05-29-hello-world.md",
+            "description": "Welcome to this blog. This blog is created with Docusaurus 2 alpha.",
+            "date": "2019-05-29T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/ASR/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/ASR/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Hello",
+            "readingTime": 0.12,
+            "truncated": true,
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/ASR/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Hola",
+              "permalink": "/ASR/blog/hola"
+            }
+          }
+        },
+        {
+          "id": "hola",
+          "metadata": {
+            "permalink": "/ASR/blog/hola",
+            "source": "@site/blog/2019-05-28-hola.md",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/ASR/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/ASR/blog/tags/docusaurus"
+              }
+            ],
+            "title": "Hola",
+            "readingTime": 0.12,
+            "truncated": false,
+            "prevItem": {
+              "title": "Hello",
+              "permalink": "/ASR/blog/hello-world"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/ASR/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ]
+        }
+      ],
+      "blogTags": {
+        "facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/ASR/blog/tags/facebook"
+        },
+        "hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "hello-world"
+          ],
+          "permalink": "/ASR/blog/tags/hello"
+        },
+        "docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ],
+          "permalink": "/ASR/blog/tags/docusaurus"
+        },
+        "hola": {
+          "name": "hola",
+          "items": [
+            "hola"
+          ],
+          "permalink": "/ASR/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/ASR/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/ASR/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

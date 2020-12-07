@@ -8,6 +8,41 @@ export default [
   exact: true,
 },
 {
+  path: '/ASR/__docusaurus/debug',
+  component: ComponentCreator('/ASR/__docusaurus/debug','063'),
+  exact: true,
+},
+{
+  path: '/ASR/__docusaurus/debug/config',
+  component: ComponentCreator('/ASR/__docusaurus/debug/config','c0a'),
+  exact: true,
+},
+{
+  path: '/ASR/__docusaurus/debug/content',
+  component: ComponentCreator('/ASR/__docusaurus/debug/content','a82'),
+  exact: true,
+},
+{
+  path: '/ASR/__docusaurus/debug/globalData',
+  component: ComponentCreator('/ASR/__docusaurus/debug/globalData','4e9'),
+  exact: true,
+},
+{
+  path: '/ASR/__docusaurus/debug/metadata',
+  component: ComponentCreator('/ASR/__docusaurus/debug/metadata','381'),
+  exact: true,
+},
+{
+  path: '/ASR/__docusaurus/debug/registry',
+  component: ComponentCreator('/ASR/__docusaurus/debug/registry','c3b'),
+  exact: true,
+},
+{
+  path: '/ASR/__docusaurus/debug/routes',
+  component: ComponentCreator('/ASR/__docusaurus/debug/routes','ad5'),
+  exact: true,
+},
+{
   path: '/ASR/blog',
   component: ComponentCreator('/ASR/blog','82c'),
   exact: true,
@@ -54,12 +89,17 @@ export default [
 },
 {
   path: '/ASR/docs',
-  component: ComponentCreator('/ASR/docs','259'),
+  component: ComponentCreator('/ASR/docs','fac'),
   
   routes: [
 {
   path: '/ASR/docs/',
   component: ComponentCreator('/ASR/docs/','6d0'),
+  exact: true,
+},
+{
+  path: '/ASR/docs/doc10',
+  component: ComponentCreator('/ASR/docs/doc10','114'),
   exact: true,
 },
 {
@@ -70,11 +110,6 @@ export default [
 {
   path: '/ASR/docs/doc3',
   component: ComponentCreator('/ASR/docs/doc3','4f9'),
-  exact: true,
-},
-{
-  path: '/ASR/docs/doc4',
-  component: ComponentCreator('/ASR/docs/doc4','ada'),
   exact: true,
 },
 {
@@ -95,6 +130,11 @@ export default [
 {
   path: '/ASR/docs/doc8',
   component: ComponentCreator('/ASR/docs/doc8','f19'),
+  exact: true,
+},
+{
+  path: '/ASR/docs/doc9',
+  component: ComponentCreator('/ASR/docs/doc9','f0b'),
   exact: true,
 },
 {

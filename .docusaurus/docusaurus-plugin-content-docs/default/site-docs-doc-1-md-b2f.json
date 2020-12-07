@@ -9,10 +9,5 @@
   "permalink": "/ASR/docs/",
   "editUrl": null,
   "version": "current",
-  "sidebar_label": "Introduction",
-  "sidebar": "someSidebar",
-  "next": {
-    "title": "Introduction & Motivation",
-    "permalink": "/ASR/docs/doc2"
-  }
+  "sidebar_label": "Introduction"
 }

@@ -12,8 +12,8 @@
   "sidebar_label": "Dataset",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "Goals",
-    "permalink": "/ASR/docs/doc4"
+    "title": "Related Work & Our Goals",
+    "permalink": "/ASR/docs/doc3"
   },
   "next": {
     "title": "Activity Exploration",

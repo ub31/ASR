@@ -2,16 +2,21 @@
   "unversionedId": "doc8",
   "id": "doc8",
   "isDocsHomePage": false,
-  "title": "Conclusion & Future Work",
+  "title": "Experimental Result & Analysis",
+  "description": "Experiment 1",
   "source": "@site/docs/doc8.md",
   "slug": "/doc8",
   "permalink": "/ASR/docs/doc8",
   "editUrl": null,
   "version": "current",
-  "sidebar_label": "Conclusion",
+  "sidebar_label": "Experimental Result & Analysis",
   "sidebar": "someSidebar",
   "previous": {
     "title": "Methods",
     "permalink": "/ASR/docs/doc7"
+  },
+  "next": {
+    "title": "Conclusion",
+    "permalink": "/ASR/docs/doc9"
   }
 }

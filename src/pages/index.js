@@ -9,10 +9,11 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Team Member 1',
-    imageUrl: '/img/img.png',
+    imageUrl: '/img/ug.jpg',
     description: (
       <>
         Uma Bharathi Govindarajan (ug646)
+        <p>University of Texas at Austin </p>
       </>
     ),
   },
@@ -22,6 +23,7 @@ const features = [
     description: (
       <>
         Shih-Lung Hsu (sh49233)
+        <p>University of Texas at Austin </p>
       </>
     ),
   },
