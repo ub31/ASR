@@ -8,19 +8,19 @@
       2,
       3,
       10,
-      17,
-      21,
+      18,
       22,
-      34,
+      23,
       35,
+      36,
       1
     ],
     "2": [
       0,
       1,
       10,
-      17,
-      22,
+      18,
+      23,
       2
     ],
     "styles": [
@@ -28,14 +28,14 @@
       2,
       3,
       10,
-      17,
-      21,
+      18,
       22,
-      31,
+      23,
       32,
       33,
       34,
       35,
+      36,
       0
     ],
     "@theme/BlogTagsListPage": [
@@ -85,84 +85,87 @@
     "~docs/default/version-current-metadata-prop-751.json": [
       16
     ],
+    "@site/docs/doc11.md": [
+      17
+    ],
     "@theme/BlogListPage": [
       0,
       1,
       2,
-      17
-    ],
-    "@site/blog/2019-05-30-welcome.md?truncated=true": [
       18
     ],
-    "@site/blog/2019-05-28-hola.md": [
+    "@site/blog/2019-05-30-welcome.md?truncated=true": [
       19
     ],
-    "@site/docs/doc5.md": [
+    "@site/blog/2019-05-28-hola.md": [
       20
+    ],
+    "@site/docs/doc5.md": [
+      21
     ],
     "@site/src/pages/index.js": [
       0,
       1,
-      21
+      22
     ],
     "@theme/BlogPostPage": [
       0,
       1,
       2,
-      22
-    ],
-    "@site/docs/mdx.md": [
       23
     ],
-    "@site/blog/2019-05-29-hello-world.md": [
+    "@site/docs/mdx.md": [
       24
     ],
-    "~blog/default/asr-blog-tags-tags-c8c.json": [
+    "@site/blog/2019-05-29-hello-world.md": [
       25
     ],
-    "@site/docs/doc2.md": [
+    "~blog/default/asr-blog-tags-tags-c8c.json": [
       26
     ],
-    "~blog/default/asr-blog-tags-hello-681.json": [
+    "@site/docs/doc2.md": [
       27
     ],
-    "@site/docs/doc9.md": [
+    "~blog/default/asr-blog-tags-hello-681.json": [
       28
     ],
-    "@site/docs/doc7.md": [
+    "@site/docs/doc9.md": [
       29
     ],
-    "~blog/default/asr-blog-tags-hola-2d3.json": [
+    "@site/docs/doc7.md": [
       30
+    ],
+    "~blog/default/asr-blog-tags-hola-2d3.json": [
+      31
     ],
     "@generated/docusaurus.config": [
       0,
-      32,
-      31
+      33,
+      32
     ],
     "main": [
       0,
-      32,
-      31
+      33,
+      32
     ],
     "runtime~main": [
       0,
-      31,
-      32
+      32,
+      33
     ],
     "@theme/DocItem": [
       0,
-      33
+      34
     ],
     "@theme/DocPage": [
       0,
       1,
-      35
+      36
     ],
     "@theme/NotFound": [
       0,
       1,
-      35
+      36
     ]
   },
   "assets": {
@@ -170,51 +173,51 @@
       "css": [
         {
           "file": "styles.f0767560.css",
-          "hash": "315d51b4a66d10c211c7",
+          "hash": "8198575d5852616a53f4",
           "publicPath": "/ASR/styles.f0767560.css"
         }
       ],
       "js": [
         {
-          "file": "styles.e7fc514a.js",
-          "hash": "315d51b4a66d10c211c7",
-          "publicPath": "/ASR/styles.e7fc514a.js"
+          "file": "styles.8d3bfe76.js",
+          "hash": "8198575d5852616a53f4",
+          "publicPath": "/ASR/styles.8d3bfe76.js"
         }
       ]
     },
     "1": {
       "js": [
         {
-          "file": "1.31be8d71.js",
-          "hash": "1491aaaddf2460f50722",
-          "publicPath": "/ASR/1.31be8d71.js"
+          "file": "1.d08a754c.js",
+          "hash": "ea8e69f58df9504e7210",
+          "publicPath": "/ASR/1.d08a754c.js"
         }
       ]
     },
     "2": {
       "js": [
         {
-          "file": "2.6daaa05d.js",
-          "hash": "96eee0f075204053af72",
-          "publicPath": "/ASR/2.6daaa05d.js"
+          "file": "2.17c863b8.js",
+          "hash": "01293bc2077fe3d7c3f8",
+          "publicPath": "/ASR/2.17c863b8.js"
         }
       ]
     },
     "3": {
       "js": [
         {
-          "file": "01a85c17.5c3a199b.js",
-          "hash": "da2b6c1c813625684cac",
-          "publicPath": "/ASR/01a85c17.5c3a199b.js"
+          "file": "01a85c17.5ac75b2a.js",
+          "hash": "9a83c46823cf53394e54",
+          "publicPath": "/ASR/01a85c17.5ac75b2a.js"
         }
       ]
     },
     "4": {
       "js": [
         {
-          "file": "03d550ee.83d5e7de.js",
-          "hash": "8816604e5729894dd19a",
-          "publicPath": "/ASR/03d550ee.83d5e7de.js"
+          "file": "03d550ee.5b3123ad.js",
+          "hash": "4a1fab8822fde42467ea",
+          "publicPath": "/ASR/03d550ee.5b3123ad.js"
         }
       ]
     },
@@ -230,18 +233,18 @@
     "6": {
       "js": [
         {
-          "file": "2868cdab.708d442b.js",
-          "hash": "9c2a6b5833476f64dc07",
-          "publicPath": "/ASR/2868cdab.708d442b.js"
+          "file": "2868cdab.b6ddbb2b.js",
+          "hash": "5c188ac85877207d2e61",
+          "publicPath": "/ASR/2868cdab.b6ddbb2b.js"
         }
       ]
     },
     "7": {
       "js": [
         {
-          "file": "3570154c.9939c332.js",
-          "hash": "00cd95856cf0daefe887",
-          "publicPath": "/ASR/3570154c.9939c332.js"
+          "file": "3570154c.a1b5d2a5.js",
+          "hash": "5d77095f270a3808c766",
+          "publicPath": "/ASR/3570154c.a1b5d2a5.js"
         }
       ]
     },
@@ -257,18 +260,18 @@
     "9": {
       "js": [
         {
-          "file": "616665f6.bdfca5a2.js",
-          "hash": "25552e661784b9f0de93",
-          "publicPath": "/ASR/616665f6.bdfca5a2.js"
+          "file": "616665f6.3d85bef2.js",
+          "hash": "e2a3b206002f13993ace",
+          "publicPath": "/ASR/616665f6.3d85bef2.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "6875c492.915ff54d.js",
-          "hash": "32bb610fe12e2e5d054d",
-          "publicPath": "/ASR/6875c492.915ff54d.js"
+          "file": "6875c492.2b317229.js",
+          "hash": "3128657ae8dff879c837",
+          "publicPath": "/ASR/6875c492.2b317229.js"
         }
       ]
     },
@@ -284,18 +287,18 @@
     "12": {
       "js": [
         {
-          "file": "7c556f21.5d190895.js",
-          "hash": "2131848cff13808ab53f",
-          "publicPath": "/ASR/7c556f21.5d190895.js"
+          "file": "7c556f21.1446a774.js",
+          "hash": "ebde3fd1907367acff94",
+          "publicPath": "/ASR/7c556f21.1446a774.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "7dedd42b.ff2e7995.js",
-          "hash": "0c9019778285aa0047f7",
-          "publicPath": "/ASR/7dedd42b.ff2e7995.js"
+          "file": "7dedd42b.ec3cdc10.js",
+          "hash": "f8acd466d986de3d72ce",
+          "publicPath": "/ASR/7dedd42b.ec3cdc10.js"
         }
       ]
     },
@@ -311,185 +314,194 @@
     "15": {
       "js": [
         {
-          "file": "8e9f0a8a.c9f08876.js",
-          "hash": "4eb718ba3ce0ee722339",
-          "publicPath": "/ASR/8e9f0a8a.c9f08876.js"
+          "file": "8e9f0a8a.c0ddd0d1.js",
+          "hash": "feedd8d1ff094affe8ed",
+          "publicPath": "/ASR/8e9f0a8a.c0ddd0d1.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "935f2afb.0fa98211.js",
-          "hash": "35436bfb8e1e80c6f602",
-          "publicPath": "/ASR/935f2afb.0fa98211.js"
+          "file": "935f2afb.b1a364ab.js",
+          "hash": "515e47a48a842c28e5e0",
+          "publicPath": "/ASR/935f2afb.b1a364ab.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "a6aa9e1f.01ec5cdc.js",
-          "hash": "040e7b4fd30314391302",
-          "publicPath": "/ASR/a6aa9e1f.01ec5cdc.js"
+          "file": "a5c48b51.0f4267b2.js",
+          "hash": "16151dec94e83c1cd110",
+          "publicPath": "/ASR/a5c48b51.0f4267b2.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "af172acd.230adfc2.js",
-          "hash": "886f22d3f9436645c404",
-          "publicPath": "/ASR/af172acd.230adfc2.js"
+          "file": "a6aa9e1f.40b7e72b.js",
+          "hash": "ada83fd99d8623b97620",
+          "publicPath": "/ASR/a6aa9e1f.40b7e72b.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "bdd709f1.e9f76539.js",
-          "hash": "cf292eeff3d2f6524ab2",
-          "publicPath": "/ASR/bdd709f1.e9f76539.js"
+          "file": "af172acd.dfee0e2c.js",
+          "hash": "a54a4705dd41560f7ce6",
+          "publicPath": "/ASR/af172acd.dfee0e2c.js"
         }
       ]
     },
     "20": {
       "js": [
         {
-          "file": "c1130eb1.c66ca031.js",
-          "hash": "32ef548438702de18e8a",
-          "publicPath": "/ASR/c1130eb1.c66ca031.js"
+          "file": "bdd709f1.0c9f7ef7.js",
+          "hash": "9c1e9e123d73b4d1d246",
+          "publicPath": "/ASR/bdd709f1.0c9f7ef7.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "c4f5d8e4.30ce177a.js",
-          "hash": "063fbdc8b5c8867a8806",
-          "publicPath": "/ASR/c4f5d8e4.30ce177a.js"
+          "file": "c1130eb1.390beb5b.js",
+          "hash": "0a600dfbb3f3a9eb3f8d",
+          "publicPath": "/ASR/c1130eb1.390beb5b.js"
         }
       ]
     },
     "22": {
       "js": [
         {
-          "file": "ccc49370.71dc6870.js",
-          "hash": "ece8c662222456b2eb70",
-          "publicPath": "/ASR/ccc49370.71dc6870.js"
+          "file": "c4f5d8e4.47e31d26.js",
+          "hash": "9d27dc435f1500966554",
+          "publicPath": "/ASR/c4f5d8e4.47e31d26.js"
         }
       ]
     },
     "23": {
       "js": [
         {
-          "file": "ce3e42ad.08a05beb.js",
-          "hash": "b6a63c10773934470d0c",
-          "publicPath": "/ASR/ce3e42ad.08a05beb.js"
+          "file": "ccc49370.8c69e76f.js",
+          "hash": "b84cc2adef33ece0520e",
+          "publicPath": "/ASR/ccc49370.8c69e76f.js"
         }
       ]
     },
     "24": {
       "js": [
         {
-          "file": "d610846f.00654e1c.js",
-          "hash": "eb30a595c876c9b8ef34",
-          "publicPath": "/ASR/d610846f.00654e1c.js"
+          "file": "ce3e42ad.7f491e43.js",
+          "hash": "57757a8212490d1b59f9",
+          "publicPath": "/ASR/ce3e42ad.7f491e43.js"
         }
       ]
     },
     "25": {
       "js": [
         {
-          "file": "dc99150b.a8a8f306.js",
-          "hash": "e27e00af3a0dd9e292cb",
-          "publicPath": "/ASR/dc99150b.a8a8f306.js"
+          "file": "d610846f.79fcd402.js",
+          "hash": "23f741c20bfcc9635729",
+          "publicPath": "/ASR/d610846f.79fcd402.js"
         }
       ]
     },
     "26": {
       "js": [
         {
-          "file": "df361e2b.881eed19.js",
-          "hash": "7937612f97bf2cd448be",
-          "publicPath": "/ASR/df361e2b.881eed19.js"
+          "file": "dc99150b.12134184.js",
+          "hash": "0c0c715d8bd2877ee83a",
+          "publicPath": "/ASR/dc99150b.12134184.js"
         }
       ]
     },
     "27": {
       "js": [
         {
-          "file": "dfde7053.ba5d0a2a.js",
-          "hash": "03426e5c787d2c44e711",
-          "publicPath": "/ASR/dfde7053.ba5d0a2a.js"
+          "file": "df361e2b.82809536.js",
+          "hash": "5bfdb754318284ddfb36",
+          "publicPath": "/ASR/df361e2b.82809536.js"
         }
       ]
     },
     "28": {
       "js": [
         {
-          "file": "e1a7ef00.c617ad20.js",
-          "hash": "04e744f1b29e41b91fc0",
-          "publicPath": "/ASR/e1a7ef00.c617ad20.js"
+          "file": "dfde7053.21f7b4ff.js",
+          "hash": "cb19b23627aa77fc63c7",
+          "publicPath": "/ASR/dfde7053.21f7b4ff.js"
         }
       ]
     },
     "29": {
       "js": [
         {
-          "file": "e3d09484.9f4c7faa.js",
-          "hash": "c7855761a309346f12a6",
-          "publicPath": "/ASR/e3d09484.9f4c7faa.js"
+          "file": "e1a7ef00.ecab2166.js",
+          "hash": "237a24a3aa45e32e6bb5",
+          "publicPath": "/ASR/e1a7ef00.ecab2166.js"
         }
       ]
     },
     "30": {
       "js": [
         {
-          "file": "e6e7b5e6.d2582ebf.js",
-          "hash": "b966c34d18feaf1019c6",
-          "publicPath": "/ASR/e6e7b5e6.d2582ebf.js"
+          "file": "e3d09484.a5e430d4.js",
+          "hash": "76dde618b9ba5af2b820",
+          "publicPath": "/ASR/e3d09484.a5e430d4.js"
         }
       ]
     },
     "31": {
       "js": [
         {
-          "file": "main.10f0b035.js",
-          "hash": "407baeca4da34581248e",
-          "publicPath": "/ASR/main.10f0b035.js"
+          "file": "e6e7b5e6.f6f88c8e.js",
+          "hash": "a271bd054098ee89073a",
+          "publicPath": "/ASR/e6e7b5e6.f6f88c8e.js"
         }
       ]
     },
     "32": {
       "js": [
         {
-          "file": "runtime~main.17122e4e.js",
-          "hash": "762b568a7ba136282451",
-          "publicPath": "/ASR/runtime~main.17122e4e.js"
+          "file": "main.a801f902.js",
+          "hash": "f1f4ead3a2060ea4ca9e",
+          "publicPath": "/ASR/main.a801f902.js"
         }
       ]
     },
     "33": {
       "js": [
         {
-          "file": "33.38604870.js",
-          "hash": "c9ed4df491389e7abe56",
-          "publicPath": "/ASR/33.38604870.js"
+          "file": "runtime~main.9d6f0a41.js",
+          "hash": "162e0d325b5b37c4f7fe",
+          "publicPath": "/ASR/runtime~main.9d6f0a41.js"
         }
       ]
     },
-    "35": {
+    "34": {
       "js": [
         {
-          "file": "34.6a63a681.js",
-          "hash": "782c9636c562a3ca39eb",
-          "publicPath": "/ASR/34.6a63a681.js"
+          "file": "34.fe894d06.js",
+          "hash": "d397a1cae83691b70071",
+          "publicPath": "/ASR/34.fe894d06.js"
+        }
+      ]
+    },
+    "36": {
+      "js": [
+        {
+          "file": "35.a9520556.js",
+          "hash": "47ccdc8471cad31a17ba",
+          "publicPath": "/ASR/35.a9520556.js"
         },
         {
-          "file": "35.f2070955.js",
-          "hash": "5659f6341d372814d472",
-          "publicPath": "/ASR/35.f2070955.js"
+          "file": "36.a067ae9c.js",
+          "hash": "87f75a109087f906c525",
+          "publicPath": "/ASR/36.a067ae9c.js"
         }
       ]
     }

@@ -74,8 +74,8 @@
               "unversionedId": "doc10",
               "id": "doc10",
               "isDocsHomePage": false,
-              "title": "Future Work",
-              "description": "In future work, we can identify possible solutions,",
+              "title": "Future Work & Key Takeaways",
+              "description": "In future work we can,",
               "source": "@site/docs/doc10.md",
               "slug": "/doc10",
               "permalink": "/ASR/docs/doc10",
@@ -106,7 +106,7 @@
               "sidebar_label": "Appendix",
               "sidebar": "someSidebar",
               "previous": {
-                "title": "Future Work",
+                "title": "Future Work & Key Takeaways",
                 "permalink": "/ASR/docs/doc10"
               }
             },
@@ -256,7 +256,7 @@
                 "permalink": "/ASR/docs/doc8"
               },
               "next": {
-                "title": "Future Work",
+                "title": "Future Work & Key Takeaways",
                 "permalink": "/ASR/docs/doc10"
               }
             },
