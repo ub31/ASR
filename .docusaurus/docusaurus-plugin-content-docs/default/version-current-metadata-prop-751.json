@@ -13,7 +13,7 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/ASR/docs/doc2"
+            "href": "/ASR/docs/"
           },
           {
             "type": "link",
@@ -56,7 +56,7 @@
   },
   "permalinkToSidebar": {
     "/ASR/docs/doc10": "someSidebar",
-    "/ASR/docs/doc2": "someSidebar",
+    "/ASR/docs/": "someSidebar",
     "/ASR/docs/doc3": "someSidebar",
     "/ASR/docs/doc5": "someSidebar",
     "/ASR/docs/doc6": "someSidebar",

@@ -20,7 +20,6 @@ export default {
   'content---asr-blog-holabdd-0da': [() => import(/* webpackChunkName: 'content---asr-blog-holabdd-0da' */ "@site/blog/2019-05-28-hola.md"), "@site/blog/2019-05-28-hola.md", require.resolveWeak("@site/blog/2019-05-28-hola.md")],
   'content---asr-blog-welcome-286-e6f': [() => import(/* webpackChunkName: 'content---asr-blog-welcome-286-e6f' */ "@site/blog/2019-05-30-welcome.md"), "@site/blog/2019-05-30-welcome.md", require.resolveWeak("@site/blog/2019-05-30-welcome.md")],
   'content---asr-blogaf-1-ac9': [() => import(/* webpackChunkName: 'content---asr-blogaf-1-ac9' */ "@site/blog/2019-05-30-welcome.md?truncated=true"), "@site/blog/2019-05-30-welcome.md?truncated=true", require.resolveWeak("@site/blog/2019-05-30-welcome.md?truncated=true")],
-  'content---asr-docs-b-2-f-f40': [() => import(/* webpackChunkName: 'content---asr-docs-b-2-f-f40' */ "@site/docs/doc1.md"), "@site/docs/doc1.md", require.resolveWeak("@site/docs/doc1.md")],
   'content---asr-docs-doc-107-de-e75': [() => import(/* webpackChunkName: 'content---asr-docs-doc-107-de-e75' */ "@site/docs/doc10.md"), "@site/docs/doc10.md", require.resolveWeak("@site/docs/doc10.md")],
   'content---asr-docs-doc-2-df-3-f0f': [() => import(/* webpackChunkName: 'content---asr-docs-doc-2-df-3-f0f' */ "@site/docs/doc2.md"), "@site/docs/doc2.md", require.resolveWeak("@site/docs/doc2.md")],
   'content---asr-docs-doc-3616-0c6': [() => import(/* webpackChunkName: 'content---asr-docs-doc-3616-0c6' */ "@site/docs/doc3.md"), "@site/docs/doc3.md", require.resolveWeak("@site/docs/doc3.md")],

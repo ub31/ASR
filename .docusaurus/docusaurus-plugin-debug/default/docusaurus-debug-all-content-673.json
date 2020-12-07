@@ -10,7 +10,7 @@
           "routePriority": -1,
           "sidebarFilePath": "/Users/uma/Documents/ActivitySensing/project/asr/ASR/sidebars.js",
           "docsDirPath": "/Users/uma/Documents/ActivitySensing/project/asr/ASR/docs",
-          "mainDocId": "doc1",
+          "mainDocId": "doc2",
           "sidebars": {
             "someSidebar": [
               {
@@ -56,7 +56,7 @@
           },
           "permalinkToSidebar": {
             "/ASR/docs/doc10": "someSidebar",
-            "/ASR/docs/doc2": "someSidebar",
+            "/ASR/docs/": "someSidebar",
             "/ASR/docs/doc3": "someSidebar",
             "/ASR/docs/doc5": "someSidebar",
             "/ASR/docs/doc6": "someSidebar",
@@ -65,19 +65,6 @@
             "/ASR/docs/doc9": "someSidebar"
           },
           "docs": [
-            {
-              "unversionedId": "doc1",
-              "id": "doc1",
-              "isDocsHomePage": false,
-              "title": "Introduction",
-              "description": "You can write content using GitHub-flavored Markdown syntax.",
-              "source": "@site/docs/doc1.md",
-              "slug": "/",
-              "permalink": "/ASR/docs/",
-              "editUrl": null,
-              "version": "current",
-              "sidebar_label": "Introduction"
-            },
             {
               "unversionedId": "doc10",
               "id": "doc10",
@@ -103,8 +90,8 @@
               "title": "Introduction",
               "description": "Background",
               "source": "@site/docs/doc2.md",
-              "slug": "/doc2",
-              "permalink": "/ASR/docs/doc2",
+              "slug": "/",
+              "permalink": "/ASR/docs/",
               "editUrl": null,
               "version": "current",
               "sidebar_label": "Introduction",
@@ -129,7 +116,7 @@
               "sidebar": "someSidebar",
               "previous": {
                 "title": "Introduction",
-                "permalink": "/ASR/docs/doc2"
+                "permalink": "/ASR/docs/"
               },
               "next": {
                 "title": "Dataset Collection",

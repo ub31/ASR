@@ -8,12 +8,8 @@
           "label": "Next",
           "isLast": true,
           "path": "/ASR/docs",
-          "mainDocId": "doc1",
+          "mainDocId": "doc2",
           "docs": [
-            {
-              "id": "doc1",
-              "path": "/ASR/docs/"
-            },
             {
               "id": "doc10",
               "path": "/ASR/docs/doc10",
@@ -21,7 +17,7 @@
             },
             {
               "id": "doc2",
-              "path": "/ASR/docs/doc2",
+              "path": "/ASR/docs/",
               "sidebar": "someSidebar"
             },
             {
