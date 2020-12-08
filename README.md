@@ -35,5 +35,5 @@ GIT_USER=<Your GitHub username> USE_SSH=false yarn deploy
 ```
 **Please make sure the length of your file path does not exceed the maximum length limitation of OS**
 
-You can visit our publicly hosting [website](https://ub31.github.io/ASR/)
+*You can visit directly our publicly hosting [website](https://ub31.github.io/ASR/)*
 
