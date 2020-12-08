@@ -34,9 +34,6 @@ This command generates static content into the `build` directory and can be serv
 GIT_USER=<Your GitHub username> USE_SSH=false yarn deploy
 ```
 **Please make sure the length of your file path does not exceed the maximum length limitation of OS**
----
-:::note
 
 You can visit our publicly hosting [website](https://ub31.github.io/ASR/)
 
-:::
