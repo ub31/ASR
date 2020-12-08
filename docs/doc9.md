@@ -1,7 +1,7 @@
 ---
 id: doc9
-title: Conclusion
-sidebar_label: Conclusion 
+title: Conclusion & Contribution
+sidebar_label: Conclusion & Contribution
 custom_edit_url: null
 ---
 
