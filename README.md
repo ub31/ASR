@@ -8,6 +8,8 @@ This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern 
 yarn install
 ```
 
+This command install the package manager `yarn`
+
 ## Local Development
 
 ```console
@@ -27,7 +29,10 @@ This command generates static content into the `build` directory and can be serv
 ## Deployment
 
 ```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+GIT_USER=<Your GitHub username> USE_SSH=false yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+:::note
+Please make sure the length of your file path does not exceed the limitation 
+:::
