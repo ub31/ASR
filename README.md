@@ -29,7 +29,7 @@ This command generates static content into the `build` directory and can be serv
 ## Deployment
 1. Fork from this repository. You can refer to [this](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) for detailed explanation 
 
-2. Deploy it using GitHub pages for hosting. This command is a convenient way to build the website and push to the `gh-pages` branch. 
+2. Deploy it using [GitHub pages](https://pages.github.com/) for hosting. This command is a convenient way to build the website and push to the `gh-pages` branch. 
 ```console
 GIT_USER=<Your GitHub username> USE_SSH=false yarn deploy
 ```
