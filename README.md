@@ -27,10 +27,10 @@ yarn build
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ## Deployment
+1. Fork from this repository. You can refer to [this](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) for detailed explanation 
 
+2. Deploy it using GitHub pages for hosting. This command is a convenient way to build the website and push to the `gh-pages` branch. 
 ```console
 GIT_USER=<Your GitHub username> USE_SSH=false yarn deploy
 ```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-**Please make sure the length of your file path does not exceed the limitation**
+**Please make sure the length of your file path does not exceed the maximum length limitation of OS**
