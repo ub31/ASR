@@ -27,10 +27,16 @@ yarn build
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ## Deployment
-1. Fork from this repository. You can refer to [this](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) for detailed explanation 
+1. Fork from this [repository](https://github.com/ub31/ASR). You can refer to [this](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) for detailed explanation 
 
 2. Deploy it using [GitHub pages](https://pages.github.com/) for hosting. The command below is a convenient way to build the website and push to the `gh-pages` branch.  
 ```console
 GIT_USER=<Your GitHub username> USE_SSH=false yarn deploy
 ```
 **Please make sure the length of your file path does not exceed the maximum length limitation of OS**
+---
+:::note
+
+You can visit our publicly hosting [website](https://ub31.github.io/ASR/)
+
+:::
